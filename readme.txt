@@ -1,4 +1,4 @@
-=== WP Condition ===
+=== WordPress Site Condition ===
 Contributors: zinger252
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=alisaleem252@gmail.com&currency_code=&amount=&return=&item_name=Donation+for+WP+Condition
 Tags: condition, query, counter, developer, debug, memory, footprint, social graph
@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Display WP Condition in Charts for Database Performance, Memory Usage, Peak Memory Usage, Page load time, Average Page load time & Social Performance.
+Display WordPress Site Condition in Charts for Database Performance, Memory Usage, Peak Memory Usage, Page load time, Average Page load time & Social Performance.
 
 == Description ==
 
