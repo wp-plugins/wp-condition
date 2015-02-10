@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: WP Condition
-Plugin URI: http://wpfixit.net
+Plugin Name: WordPress Site Condition
+Plugin URI: http://thesetemplates.info
 Description: Display WP-Condition in Chart for Database Performance, Memory Performance, Site Performance, and Social Performance. Requires PHP 5.2.0+
 Version: 1.0.0
 Author: zinger252
-Author URI: http://wpfixit.net
+Author URI: http://thesetemplates.info
 */
 
 class WP_Page_Condition_Stats {
